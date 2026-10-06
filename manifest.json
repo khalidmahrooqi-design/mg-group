@@ -206,8 +206,8 @@
   },
   {
     "path": "brand/al-shahiq-preview.webp",
-    "bytes": 12150,
-    "sha256": "e35c51143ef2ce186e6aecd323cfaf33eceeceb8859a5b95ae5eeb55b81e9de4"
+    "bytes": 17372,
+    "sha256": "5935c81f808ce73605c53956d11a35c11950057f7d6d7955f48976a8939fb745"
   },
   {
     "path": "brand/al-shahiq.svg",
@@ -221,8 +221,8 @@
   },
   {
     "path": "brand/khalid-whatsapp.webp",
-    "bytes": 362,
-    "sha256": "e0dbb375b8ad09ec60e53b01ad069760cc535d1d4202ebb41e1698225da3e75c"
+    "bytes": 4788,
+    "sha256": "25e70f90d19bd392c253f3b49a1bb550b94b8909a9ed5b0047cbb7f835f7c778"
   },
   {
     "path": "brand/mg-group-mark.svg",
@@ -236,8 +236,8 @@
   },
   {
     "path": "brand/mg-group-preview.webp",
-    "bytes": 14406,
-    "sha256": "5d7b8c082a03a90382a391ddf291821a16176d6e2611b22212a1ef7350368219"
+    "bytes": 16786,
+    "sha256": "aabf8a093e6219f761915020ccb9942ea253ba3d3c132484886e520ff2ea6fef"
   },
   {
     "path": "brand/mg-group-white.svg",
@@ -251,8 +251,8 @@
   },
   {
     "path": "brand/og.webp",
-    "bytes": 115998,
-    "sha256": "2feefc883ba2325d26b95c462edcb719bb3009fd37839c828f8d3587ebc25d6f"
+    "bytes": 20308,
+    "sha256": "2324504014e5abf28e99078080d4fcd75b44561e45b1b62000d09e2f82a4c636"
   },
   {
     "path": "decoders/draco/LICENSE.txt",
